@@ -10,6 +10,7 @@ A repository to test simple git functionalities. For example, here are some cute
 # Koala
 
 This is a **[Koala](https://en.wikipedia.org/wiki/Koala)**
+
 *They are known for koaling up to 5 minutes*
 
 <img src="http://cdn.wallpapersafari.com/74/1/SO6LPd.jpg">
